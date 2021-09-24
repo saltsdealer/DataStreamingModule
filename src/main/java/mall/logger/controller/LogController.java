@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * For educational purposes only
  *
- * @Author: T.REN
+ * @Author: saltsdealer@gmail.com
  * @Date: 2021/09/06/16:06
  * @Description: used to receive the logs send by clients, based on the json logs.
  *               data are stored in Kafka.
